@@ -1,7 +1,7 @@
 
 
 
-# Echogpt Dashboard
+# Echogpt Dashboard App
 
 A new Flutter project.
 

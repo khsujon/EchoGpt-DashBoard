@@ -3,7 +3,7 @@
 
 # Echogpt Dashboard App
 
-A new Flutter project.
+A admin dashboard application using for EchoGPT
 
 ## Getting Started
 

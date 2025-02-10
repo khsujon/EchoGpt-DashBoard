@@ -1,7 +1,7 @@
 
 
 
-# echogpt_dashboard
+# Echogpt_dashboard
 
 A new Flutter project.
 
